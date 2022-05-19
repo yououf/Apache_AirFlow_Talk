@@ -1,2 +1,2 @@
 # Apache_AirFlow_Talk
-Codes sources des demos live utilisés Durant le talk sur apache airflow 
+Codes sources de la demo live Durant le talk sur apache airflow 

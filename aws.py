@@ -7,8 +7,8 @@ import boto3
 def send_data_to_sqs(**kwargs):
     sqs = boto3.client(
         "sqs",
-        aws_access_key_id='AKIAQM37ZSX4KZC75XMB',
-        aws_secret_access_key='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',
+        aws_access_key_id='',
+        aws_secret_access_key='',
         endpoint_url="https://sqs.us-east-1.amazonaws.com/027648431608/airflow-demo-queue",
         region_name="us-east-1",
     )
